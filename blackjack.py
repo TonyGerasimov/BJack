@@ -6,6 +6,7 @@ diamonds = chr(9830) # ♦
 spades = chr(9824) # ♠
 clubs = chr(9827) # ♣
 print(hearts, diamonds, spades, clubs)
+print('little python game')
 
 def main():
     print('''Blackjack, home-casino
